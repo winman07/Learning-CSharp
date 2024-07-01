@@ -1,0 +1,14 @@
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\bin\Debug\net8.0\restaurantMenuProject.cs.exe
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\bin\Debug\net8.0\restaurantMenuProject.cs.deps.json
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\bin\Debug\net8.0\restaurantMenuProject.cs.runtimeconfig.json
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\bin\Debug\net8.0\restaurantMenuProject.cs.dll
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\bin\Debug\net8.0\restaurantMenuProject.cs.pdb
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.AssemblyInfoInputs.cache
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.AssemblyInfo.cs
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.dll
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\refint\restaurantMenuProject.cs.dll
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.pdb
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\restaurantMenuProject.cs.genruntimeconfig.cache
+C:\Users\wade_\OneDrive\Desktop\School\Summer 2024\CLD-137 C# Programming Language\RestaurantMenu\restaurantMenuProject.cs\obj\Debug\net8.0\ref\restaurantMenuProject.cs.dll
